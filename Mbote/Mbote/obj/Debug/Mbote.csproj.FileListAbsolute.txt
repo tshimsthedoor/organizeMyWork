@@ -1,0 +1,7 @@
+C:\Users\Braam\source\repos\Mbote\Mbote\bin\Debug\Mbote.exe.config
+C:\Users\Braam\source\repos\Mbote\Mbote\bin\Debug\Mbote.exe
+C:\Users\Braam\source\repos\Mbote\Mbote\bin\Debug\Mbote.pdb
+C:\Users\Braam\source\repos\Mbote\Mbote\obj\Debug\Mbote.csprojAssemblyReference.cache
+C:\Users\Braam\source\repos\Mbote\Mbote\obj\Debug\Mbote.csproj.CoreCompileInputs.cache
+C:\Users\Braam\source\repos\Mbote\Mbote\obj\Debug\Mbote.exe
+C:\Users\Braam\source\repos\Mbote\Mbote\obj\Debug\Mbote.pdb

@@ -1,0 +1,14 @@
+C:\Users\Braam\source\repos\Savana\Savana\bin\Debug\netcoreapp2.1\Savana.deps.json
+C:\Users\Braam\source\repos\Savana\Savana\bin\Debug\netcoreapp2.1\Savana.runtimeconfig.json
+C:\Users\Braam\source\repos\Savana\Savana\bin\Debug\netcoreapp2.1\Savana.runtimeconfig.dev.json
+C:\Users\Braam\source\repos\Savana\Savana\bin\Debug\netcoreapp2.1\Savana.dll
+C:\Users\Braam\source\repos\Savana\Savana\bin\Debug\netcoreapp2.1\Savana.pdb
+C:\Users\Braam\source\repos\Savana\Savana\obj\Debug\netcoreapp2.1\Savana.csprojAssemblyReference.cache
+C:\Users\Braam\source\repos\Savana\Savana\obj\Debug\netcoreapp2.1\Savana.csproj.CoreCompileInputs.cache
+C:\Users\Braam\source\repos\Savana\Savana\obj\Debug\netcoreapp2.1\Savana.RazorAssemblyInfo.cache
+C:\Users\Braam\source\repos\Savana\Savana\obj\Debug\netcoreapp2.1\Savana.RazorAssemblyInfo.cs
+C:\Users\Braam\source\repos\Savana\Savana\obj\Debug\netcoreapp2.1\Savana.AssemblyInfoInputs.cache
+C:\Users\Braam\source\repos\Savana\Savana\obj\Debug\netcoreapp2.1\Savana.AssemblyInfo.cs
+C:\Users\Braam\source\repos\Savana\Savana\obj\Debug\netcoreapp2.1\Savana.RazorTargetAssemblyInfo.cache
+C:\Users\Braam\source\repos\Savana\Savana\obj\Debug\netcoreapp2.1\Savana.dll
+C:\Users\Braam\source\repos\Savana\Savana\obj\Debug\netcoreapp2.1\Savana.pdb
